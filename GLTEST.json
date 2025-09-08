@@ -1,0 +1,9 @@
+{
+  "name": "Golden Lion Test Token",
+  "symbol": "GLTEST",
+  "description": "A transparent test token for automation pipelines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
+  "extensions": {
+    "website": "https://example.com"
+  }
+}
