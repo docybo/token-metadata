@@ -1,0 +1,10 @@
+{
+  "name": "Golden Cat Meme",
+  "symbol": "GCME",
+  "description": "A community-powered meme coin for testing automation pipelines.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://twitter.com/example"
+  }
+}
